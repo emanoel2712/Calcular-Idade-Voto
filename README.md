@@ -1,3 +1,3 @@
 # Calcular-Idade-Voto
 
-App Android básico que calcula a idade da pessoa e retorna se ela já pode votar.
+App Android básico que calcula a idade da pessoa e retorna se ela já pode votar. Utilizando o padrão de arquitetura MVC
